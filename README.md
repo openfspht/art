@@ -2,8 +2,6 @@
 
 <img src="logo/openfsp-logo.svg" alt="OpenFSP" width="380">
 
-**Brand assets for [OpenFSP](https://github.com/openfspht/openfsp).**
-
 </div>
 
 ## Files
