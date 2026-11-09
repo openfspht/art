@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="7 7 86 86" width="86" height="86" role="img" aria-label="OpenFSP">
+<!-- OpenFSP - https://github.com/openfspht - Apache-2.0
+     Symbol: ring r=32, stroke 14, gap 14 (constant width, parallel faces),
+     three gaps at 45/165/285 deg. Ink box exactly 78x78. -->
+  <path fill="#0B3B36" d="M72.18,82.079A39,39 0 0,1 14.752,66.692L28.63,62.973A25,25 0 0,0 62.021,71.92Z"/><path fill="#0B3B36" d="M11.129,53.169A39,39 0 0,1 53.169,11.129L49.45,25.006A25,25 0 0,0 25.006,49.45Z"/><path fill="#E8A33D" d="M66.692,14.752A39,39 0 0,1 82.079,72.18L71.92,62.021A25,25 0 0,0 62.973,28.63Z"/>
+</svg>
