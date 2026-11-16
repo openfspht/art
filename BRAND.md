@@ -57,11 +57,11 @@ Two rules must survive any redraw:
 | Ink | `#0B3B36` | Mark, lettering, text. |
 | Accent | `#E8A33D` | One arc only. |
 | Accent deep | `#C07E1B` | Accent that must carry contrast on a light ground. |
-| Chalk | `#F5F2EA` | Light ground, inverted mark. |
+| Chalk | `#EEF5F4` | Light ground, inverted mark. |
 
-The accent fails WCAG contrast on light grounds (1.93 on chalk, 2.16 on white). The mark
+The accent fails WCAG contrast on light grounds (1.95 on chalk, 2.16 on white). The mark
 still reads because its form is carried by the ink arcs, so nothing may rely on the accent
-alone. Accent deep passes 3:1 on both chalk and ink. Ink on chalk is 11.09.
+alone. Accent deep passes 3:1 on both chalk and ink. Ink on chalk is 11.22.
 
 I left out the Haitian flag colours on purpose: OpenFSP is not a government project.
 

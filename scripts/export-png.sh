@@ -11,7 +11,7 @@ readonly FAVICON_SIZES=(16 32 48 180 192 512)
 readonly AVATAR_SIZES=(256 512 1024)
 readonly APPLE_ICON_SIZE=180
 readonly APPLE_ICON_MARK=116
-readonly APPLE_ICON_BACKGROUND="#F5F2EAFF"
+readonly APPLE_ICON_BACKGROUND="#EEF5F4FF"
 
 if ! command -v rsvg-convert >/dev/null; then
   echo "rsvg-convert not found: brew install librsvg" >&2

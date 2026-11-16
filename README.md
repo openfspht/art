@@ -21,7 +21,7 @@ with `scripts/export-png.sh` (requires `librsvg`).
 Every file is also served at [cdn.openfsp.org](https://cdn.openfsp.org/discover.json), for example
 `https://cdn.openfsp.org/logo/openfsp-logo.svg`.
 
-Colours: `#0B3B36` ink, `#E8A33D` accent, `#F5F2EA` chalk.
+Colours: `#0B3B36` ink, `#E8A33D` accent, `#EEF5F4` chalk.
 
 Keep clear space around the logo, do not recolour or distort it, and see the
 [brand book](BRAND.md) for anything else.
