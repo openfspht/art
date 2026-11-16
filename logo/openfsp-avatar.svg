@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-15 -15 130 130" width="130" height="130" role="img" aria-label="OpenFSP">
+<!-- OpenFSP - https://github.com/openfspht - Apache-2.0
+     Avatar: symbol on a square ground, sized so a circular crop keeps its clear space. -->
+  <rect x="-15" y="-15" width="130" height="130" fill="#F5F2EA"/><path fill="#0B3B36" d="M72.18,82.079A39,39 0 0,1 14.752,66.692L28.63,62.973A25,25 0 0,0 62.021,71.92Z"/><path fill="#0B3B36" d="M11.129,53.169A39,39 0 0,1 53.169,11.129L49.45,25.006A25,25 0 0,0 25.006,49.45Z"/><path fill="#E8A33D" d="M66.692,14.752A39,39 0 0,1 82.079,72.18L71.92,62.021A25,25 0 0,0 62.973,28.63Z"/>
+</svg>
