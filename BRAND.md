@@ -70,8 +70,9 @@ I left out the Haitian flag colours on purpose: OpenFSP is not a government proj
 [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) (SIL OFL 1.1).
 
 - Wordmark: Bold, lowercase, -2.5% tracking, converted to outlines.
-- Headings: Medium or Bold.
-- Body text: any neutral face.
+- Share cards: Bold for the title.
+
+Interfaces and documents, headings included, use [Inter](https://rsms.me/inter/) (SIL OFL 1.1).
 
 ## 7. Misuse
 
