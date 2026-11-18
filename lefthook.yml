@@ -1,0 +1,14 @@
+pre-commit:
+  commands:
+    actionlint:
+      glob: ".github/workflows/*.yml"
+      run: actionlint
+    shellcheck:
+      glob: "scripts/*.sh"
+      run: shellcheck {staged_files}
+commit-msg:
+  commands:
+    conventional:
+      run: >-
+        sed -e '/^#/d' -e '/^[[:space:]]*$/d' {1} | awk 'END { exit NR != 1 }' &&
+        sed -e '/^#/d' -e '/^[[:space:]]*$/d' {1} | grep -Eq '^(build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test)(\([a-z0-9-]+\))?!?: [^[:space:]]'
